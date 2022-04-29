@@ -1,7 +1,5 @@
 # Python_Data_Analysis_CSV
-#Lists
-#Dictionary 
-#csv_module
+
 This repository contains a project on Lists, Dictionary and csv_module in Python.
 The project uses Baseball data for all of the players from past 100 years.
 
